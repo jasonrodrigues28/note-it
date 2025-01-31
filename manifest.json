@@ -1,0 +1,11 @@
+{
+    "manifest_version": 3,
+    "name": "Note It",
+    "version": "1.0",
+    "description": "A simple Chrome extension to take quick notes.",
+    "action": {
+      "default_popup": "popup.html",
+      "default_icon": "icon.png"
+    },
+    "permissions": ["storage"]
+  }
